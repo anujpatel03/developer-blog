@@ -1,1 +1,1 @@
-# dev-blog
+# developer-blog
